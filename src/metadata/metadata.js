@@ -50,16 +50,18 @@ Currently, I'm implementing a multi-threading caching server with my study group
 Advisor: Dmitry Rodionov. Theme: role of dynamics of the gut microbiome in T1D development. We perform a functional metagenomics study uncovering the phenotypic profile of gut
 microbiota and the role of it’s dynamic in autoimmune diabetes progression.
 `
-    }
-  ],
-  experience: [
+    },
     {
-      header: 'Department of Bioinformatics',
-      skills: ['theater', 'play'],
+      header: 'Institute for Information Transmission Problems, RAN',
+      skills: ['python3', 'samtools'],
       contents: `
-Thousands of performances of my plays have been staged since the end of the 16th century. Many of my greatest plays were performed by the Lord Chamberlain's Men and King's Men acting companies at the [Globe](https://en.wikipedia.org/wiki/Globe_Theatre) and Blackfriars Theatres.
+Advisors: M.Moldovan, M.Gelfand. Theme: effect of mRNA editing on the translation process in soft-bodied
+cephalopods. Comparative genomics study involving transcriptomic data analysis.
 `
     },
+  ],
+  experience: [
+    
     {
       header: 'Poetry',
       skills: ['poetry', 'erotic'],
