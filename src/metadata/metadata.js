@@ -73,8 +73,23 @@ Wet-lab work involving fluorescent microscopy
   experience: [
     
     {
-      header: 'School of Molecular and Theoretical Biology, Adam Mickiewicz University',
+      header: 'School of Molecular and Theoretical Biology, Adam Mickiewicz University, Poland',
       skills: ['communication', 'programming'],
+      contents: ''
+    },
+    {
+      header: 'Information technology and systems, Perm, Russia',
+      skills: ['poster presentation'],
+      contents: ''
+    },
+    {
+      header: 'CompSysBio, Assois, France',
+      skills: ['systems biology conference', 'workshop participation'],
+      contents: ''
+    },
+    {
+      header: 'KVIS Invitational science fair, Rayong, Thailand',
+      skills: ['poster presentation', 'grand prize'],
       contents: ''
     }
   ]
