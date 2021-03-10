@@ -23,11 +23,11 @@ module.exports = {
   ],
   plays: [
     {
-      title: 'Hamlet',
-      written: 'Likely early 17th century',
-      badges: ['tragedy', 'philosophy', 'death'],
+      title: 'Department of Computational Systems Biology, VIGG RAN',
+      written: '2019 - Current',
+      badges: ['edgeR', 'DESEQ2', 'samtools', 'STAR'],
       contents: `
-Prince Hamlet is visited by his father's ghost and ordered to avenge his father's murder by killing King Claudius, his uncle. After struggling with several questions, including whether what the ghost said is true and whether it is right for him to take revenge, Hamlet, along with almost all the other major characters, is killed.
+Advisor: Ivan Kulakovskiy. Development of python/R/bash pipelines for RNA-seq data analysis. Workflow automation and research programming for cancer studies.
 `
     },
     {
