@@ -1,27 +1,21 @@
 module.exports = {
-  name: 'William Shakespeare',
-  title: 'Poet, playwright and actor',
+  name: 'Daria Nogina',
+  title: 'Computational biology student, in love with ML and software engineering',
   facts: {
-    'Residence': 'London',
-    'Homepage': `<a href="https://en.wikipedia.org/wiki/William_Shakespeare">
-                  <span class="print">https://en.wikipedia.org/wiki/William_Shakespeare</span>
-                  <span class="screen">wiki</span>
+    'Residence': 'Moscow',
+    'Github': `<a href="https://github.com/NoginaDaria">
+                  <span class="print">https://github.com/NoginaDaria</span>
+                  <span class="screen">NoginaDaria</span>
                 </a>`,
-    'Email': '<a href="mailto:wil64@yahoo.com">wil64@yahoo.com</a>'
+    'Email': '<a href="mailto:nogina_daria@mail.ru">nogina_daria@mail.ru</a>'
   },
   skills: [
-    ['Comedy', '++++'],
-    ['Love', '++++'],
-    ['Theater', '++++'],
-    ['Tragedy', '++++'],
-    ['Poetry', '++++'],
-    ['Erotic', '+++'],
-    ['Sonnets', '++++'],
-    ['Plays', '++++'],
-    ['Writing', '++++'],
-    ['Directing', '+++'],
-    ['Literature', '++++'],
-    ['Influence', '++++'],
+    ['Python', '++++'],
+    ['R', '++++'],
+    ['C++', '+++'],
+    ['EDA', '++++'],
+    ['Neural networks', '++++'],
+    ['Statistics', '+++']
   ],
   plays: [
     {
