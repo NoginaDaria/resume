@@ -33,25 +33,28 @@ RIP-seq, Ribo-seq, and RNA-seq data.
 `
     },
     {
-      title: 'Twelfth Night',
-      written: '1600 – 1601',
-      badges: ['comedy', 'love'],
+      title: 'Technosphere, Mail.Ru Group',
+      written: '2020 - Current',
+      badges: ['python3', 'C++', 'neural networks'],
       contents: `
-Viola finds herself shipwrecked in Illyria and, assuming that her brother Sebastian has died in the wreck, disguises herself as a man to gain a position in Duke Orsino's court. Orsino sends Viola (whom he knows as Cesario) to deliver a message to his love, Olivia. Olivia, however, dislikes the Duke. She falls in love with Viola, who she thinks is a man. Eventually, Viola's brother Sebastian, who in fact was unharmed in the wreck, reappears. At a critical moment, Viola's true identity is revealed when members of the court notice the similarities between her and Sebastian. Olivia quickly falls in love with Sebastian, and Viola confesses her love for the Duke.
+ Intense one-year program by a leading Russian IT company. 
+Within the program, I participated in Kaggle competitions on NLP and time series forecasting problems. 
+Currently, I'm implementing a multi-threading caching server with my study group.
 `
     },
     {
-      title: 'The Tragedy of Romeo and Juliet',
-      written: '1595–1596, with a possible early draft written in 1591',
-      badges: ['tragedy', 'death', 'love'],
+      title: 'Sanford Burnham Prebys Medical Discovery Institute',
+      written: '2019 - Current',
+      badges: ['python3', 'qiime2', 'time series'],
       contents: `
-In Verona, Italy, two families, the Montagues and the Capulets, are in the midst of a bloody feud. Romeo, a Montague, and Juliet, a Capulet, fall in love and struggle to maintain their relationship in the face of familial hatred. After Romeo kills Juliet's cousin Tybalt in a fit of passion, things fall apart. Both lovers eventually commit suicide within minutes of each other, and the feuding families make peace over their recent grief.
+Advisor: Dmitry Rodionov. Theme: role of dynamics of the gut microbiome in T1D development. We perform a functional metagenomics study uncovering the phenotypic profile of gut
+microbiota and the role of it’s dynamic in autoimmune diabetes progression.
 `
     }
   ],
   experience: [
     {
-      header: 'Performance',
+      header: 'Department of Bioinformatics',
       skills: ['theater', 'play'],
       contents: `
 Thousands of performances of my plays have been staged since the end of the 16th century. Many of my greatest plays were performed by the Lord Chamberlain's Men and King's Men acting companies at the [Globe](https://en.wikipedia.org/wiki/Globe_Theatre) and Blackfriars Theatres.
