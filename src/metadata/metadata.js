@@ -27,7 +27,9 @@ module.exports = {
       written: '2019 - Current',
       badges: ['edgeR', 'DESEQ2', 'samtools', 'STAR'],
       contents: `
-Advisor: Ivan Kulakovskiy. Development of python/R/bash pipelines for RNA-seq data analysis. Workflow automation and research programming for cancer studies.
+Advisor: Ivan Kulakovskiy. \n Development of python/R/bash pipelines for RNA-seq data analysis. Workflow automation and research programming for cancer studies. We investigate RNA-protein interactions through
+high-throughput data analysis. I have experience in working with
+RIP-seq, Ribo-seq, and RNA-seq data.
 `
     },
     {
