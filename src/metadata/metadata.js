@@ -16,9 +16,10 @@ module.exports = {
     ['EDA', '++++'],
     ['Classical ML', '++++'],
     ['Neural networks', '++++'],
-    ['Probability theory and statistics', '+++'],
-    ['Algorythms and data structures', '+++'],
-    ['Group theory and topology', '++']
+    ['Probability theory', '+++'],
+    ['Statistics', '++++'],
+    ['Algorythms and DS', '+++'],
+    ['Advanced math', '++']
   ],
   plays: [
     {
