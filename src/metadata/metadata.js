@@ -52,22 +52,31 @@ microbiota and the role of it’s dynamic in autoimmune diabetes progression.
 `
     },
     {
-      header: 'Institute for Information Transmission Problems, RAN',
-      skills: ['python3', 'samtools'],
+      title: 'Institute for Information Transmission Problems, RAN',
+      badges: ['python3', 'samtools'],
+      written: '2019',
       contents: `
 Advisors: M.Moldovan, M.Gelfand. Theme: effect of mRNA editing on the translation process in soft-bodied
 cephalopods. Comparative genomics study involving transcriptomic data analysis.
 `
     },
+    {
+      title: 'Lomonosov Moscow State University',
+      badges: ['wet lab work'],
+      written: '2017',
+      contents: `
+Advisors: F.Balabin, A.Sveshnikova, F.Ataullakhanov. Theme: dynamics of calcium spiking in human platelets and fish thrombocytes.
+Wet-lab work involving fluorescent microscopy
+`
+    }
   ],
   experience: [
     
     {
-      header: 'Poetry',
-      skills: ['poetry', 'erotic'],
-      contents: `
-In 1593 and 1594, when the theatres were closed because of plague, I published two narrative poems on sexual themes, Venus and Adonis and The Rape of Lucrece. He dedicated them to Henry Wriothesley, Earl of Southampton.
-`
+      title: 'Summer schools', 
+      header: 'School of Molecular and Theoretical Biology, Adam Mickiewicz University',
+      written: '2018',
+     
     }
   ]
 };
