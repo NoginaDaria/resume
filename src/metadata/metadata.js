@@ -53,8 +53,8 @@ microbiota and the role of it’s dynamic in autoimmune diabetes progression.
     },
     {
       title: 'Institute for Information Transmission Problems, RAN',
-      badges: ['python3', 'samtools'],
       written: '2019',
+      badges: ['python3', 'samtools'],
       contents: `
 Advisors: M.Moldovan, M.Gelfand. Theme: effect of mRNA editing on the translation process in soft-bodied
 cephalopods. Comparative genomics study involving transcriptomic data analysis.
@@ -62,8 +62,8 @@ cephalopods. Comparative genomics study involving transcriptomic data analysis.
     },
     {
       title: 'Lomonosov Moscow State University',
-      badges: ['wet lab work'],
       written: '2017',
+      badges: ['wet lab work'],
       contents: `
 Advisors: F.Balabin, A.Sveshnikova, F.Ataullakhanov. Theme: dynamics of calcium spiking in human platelets and fish thrombocytes.
 Wet-lab work involving fluorescent microscopy
@@ -73,7 +73,9 @@ Wet-lab work involving fluorescent microscopy
   experience: [
     
     {
-      header: 'School of Molecular and Theoretical Biology, Adam Mickiewicz University'
+      header: 'School of Molecular and Theoretical Biology, Adam Mickiewicz University',
+      skills: ['communication', 'programming'],
+      contents: ''
     }
   ]
 };
