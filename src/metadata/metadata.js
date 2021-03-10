@@ -75,8 +75,7 @@ Wet-lab work involving fluorescent microscopy
     {
       title: 'Summer schools', 
       header: 'School of Molecular and Theoretical Biology, Adam Mickiewicz University',
-      written: '2018',
-     
+      written: '2018'
     }
   ]
 };
