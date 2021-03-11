@@ -91,6 +91,11 @@ Wet-lab work involving fluorescent microscopy
       header: 'KVIS Invitational science fair, Rayong, Thailand',
       skills: ['poster presentation', 'grand prize'],
       contents: ''
+    },
+    {
+      header: 'Preparing schoolchildren for biological competitions',
+      skills: ['teaching'],
+      contents: ''
     }
   ]
 };
