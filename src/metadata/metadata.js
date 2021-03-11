@@ -15,7 +15,7 @@ module.exports = {
     ['C++', '+++'],
     ['EDA', '++++'],
     ['Classical ML', '++++'],
-    ['Neural networks', '++++'],
+    ['Neural networks', '++'],
     ['Probability theory', '+++'],
     ['Statistics', '++++'],
     ['Algorythms and DS', '+++'],
@@ -74,7 +74,7 @@ Wet-lab work involving fluorescent microscopy
     
     {
       header: 'School of Molecular and Theoretical Biology, Adam Mickiewicz University, Poland',
-      skills: ['communication', 'programming'],
+      skills: ['communication', 'programming', 'biology'],
       contents: ''
     },
     {
