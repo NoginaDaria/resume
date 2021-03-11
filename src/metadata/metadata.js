@@ -94,7 +94,7 @@ Wet-lab work involving fluorescent microscopy
     },
     {
       header: 'Preparing schoolchildren for biological competitions',
-      skills: ['teaching'],
+      skills: ['teaching'], 
       contents: ''
     }
   ]
