@@ -18,7 +18,7 @@ module.exports = {
     ['Neural networks', '++'],
     ['Probability theory', '+++'],
     ['Statistics', '++++'],
-    ['Algorythms and DS', '+++'],
+    ['Algorithms and DS', '+++'],
     ['Advanced math', '++']
   ],
   plays: [
